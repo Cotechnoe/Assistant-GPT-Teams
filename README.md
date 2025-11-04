@@ -10,17 +10,17 @@ Assistant IA intelligent propulsé par Azure OpenAI GPT-4 pour vos conversations
 
 ### Pour les Administrateurs IT
 
-Téléchargez le fichier `appPackage.dev.zip` et suivez le guide d'installation complet disponible dans votre Customer Portal.
+Téléchargez le fichier `appPackage.zip` et suivez le [guide d'installation complet](https://github.com/Cotechnoe/Assistant-GPT-Teams/blob/main/INSTALLATION.md).
 
 **Méthodes d'installation** :
 1. **Teams Admin Center** (recommandé) - Pour déploiement organisationnel
 2. **Sideloading** - Pour tests ou petites équipes
 
-### Documentation
+### Documentation Complète
 
-- Guide d'installation complet disponible après souscription
-- Support : support@cotechnoe.com
-- Portal : https://sac-02-portal.azurewebsites.net
+- **[Guide d'installation](https://github.com/Cotechnoe/Assistant-GPT-Teams/blob/main/INSTALLATION.md)** : Instructions détaillées pas-à-pas
+- **[Support](https://github.com/Cotechnoe/Assistant-GPT-Teams/blob/main/SUPPORT.md)** : FAQ et résolution de problèmes
+- Email : support@cotechnoe.com
 
 ## 🔐 Prérequis
 
@@ -38,17 +38,17 @@ Téléchargez le fichier `appPackage.dev.zip` et suivez le guide d'installation 
 ## 📞 Support
 
 - Email : support@cotechnoe.com
-- Portal : https://sac-02-portal.azurewebsites.net/support
-- Documentation : https://sac-02-portal.azurewebsites.net/help
+- Documentation : [SUPPORT.md](https://github.com/Cotechnoe/Assistant-GPT-Teams/blob/main/SUPPORT.md)
+- Guide d'installation : [INSTALLATION.md](https://github.com/Cotechnoe/Assistant-GPT-Teams/blob/main/INSTALLATION.md)
 
 ## 📄 Informations Légales
 
 - Éditeur : Cotechnoe Inc.
 - Site web : https://www.cotechnoe.com
-- Confidentialité : https://sac-02-portal.azurewebsites.net/privacy
-- Conditions : https://sac-02-portal.azurewebsites.net/terms
+- Confidentialité : [PRIVACY.md](https://github.com/Cotechnoe/Assistant-GPT-Teams/blob/main/PRIVACY.md)
+- Conditions : [TERMS.md](https://github.com/Cotechnoe/Assistant-GPT-Teams/blob/main/TERMS.md)
 
 ---
 
 **Version** : 1.0.0  
-**Copyright** © 2025 Cotechnoe Inc.
+**Copyright** &copy; 2025 Cotechnoe Inc.
