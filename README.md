@@ -19,7 +19,7 @@ Téléchargez le fichier `appPackage.dev.zip` et suivez le guide d'installation 
 ### Documentation
 
 - Guide d'installation complet disponible après souscription
-- Support : support@cotechnoe.net
+- Support : support@cotechnoe.com
 - Portal : https://sac-02-portal.azurewebsites.net
 
 ## 🔐 Prérequis
@@ -37,14 +37,14 @@ Téléchargez le fichier `appPackage.dev.zip` et suivez le guide d'installation 
 
 ## 📞 Support
 
-- Email : support@cotechnoe.net
+- Email : support@cotechnoe.com
 - Portal : https://sac-02-portal.azurewebsites.net/support
 - Documentation : https://sac-02-portal.azurewebsites.net/help
 
 ## 📄 Informations Légales
 
 - Éditeur : Cotechnoe Inc.
-- Site web : https://www.cotechnoe.net
+- Site web : https://www.cotechnoe.com
 - Confidentialité : https://sac-02-portal.azurewebsites.net/privacy
 - Conditions : https://sac-02-portal.azurewebsites.net/terms
 
